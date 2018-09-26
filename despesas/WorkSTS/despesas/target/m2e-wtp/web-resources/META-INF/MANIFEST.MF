@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: despesas
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lucas
+Implementation-Vendor-Id: br.com.springmvc.despesas
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/despesas-1asd
+Created-By: Maven Integration for Eclipse
+
